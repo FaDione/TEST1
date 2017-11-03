@@ -1,0 +1,39 @@
+h1 {
+	color: red;
+}
+h1:hover {
+	color: green;
+}
+p {
+	font-style: italic;
+	background-color: #b642f4;
+}
+img {
+	width: 100%;
+}
+body 
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	background: red;
+	height: 200px;
+	width: 100%;
+	margin: 0;
+}
+img.pic
+{
+	width:50%;
+}
+.bouton{
+	float: center;
+}
+img.but
+{
+	width:10%;
+}
+.bouton{
+	float: center;
+}
